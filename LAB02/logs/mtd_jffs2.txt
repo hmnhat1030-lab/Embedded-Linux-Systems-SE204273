@@ -1,0 +1,22 @@
+dev:    size   erasesize  name
+mtd0: 02000000 00001000 "BIOS"
+mtd1: 02000000 00004000 "NAND simulator partition 0"
+mtd1
+Name:                           NAND simulator partition 0
+Type:                           nand
+Eraseblock size:                16384 bytes, 16.0 KiB
+Amount of eraseblocks:          2048 (33554432 bytes, 32.0 MiB)
+Minimum input/output unit size: 512 bytes
+Sub-page size:                  256 bytes
+OOB size:                       16 bytes
+Character device major/minor:   90:2
+Bad blocks are allowed:         true
+Device is writable:             true
+
+Erasing 32768 Kibyte @ 0 --  0 % complete Erasing 32768 Kibyte @ 0 -- 100 % complete 
+Writing data to block 0 at offset 0x0
+Hello from JFFS2!
+Embedded Linux Lab2
+Thứ ba, 20 Tháng 10 năm 2026 23:58:37 +07
+Written at Thứ ba, 20 Tháng 10 năm 2026 23:58:37 +07
+New runtime file
