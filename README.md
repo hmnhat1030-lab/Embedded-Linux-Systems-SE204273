@@ -1,6 +1,6 @@
 # Embedded Linux Systems - SE204273 (Hoang Minh Nhat)
 
-Repository tổng hợp các bài thực hành và Assignment môn **Hệ thống Linux Nhúng** (Kiến trúc ARMv7 Cortex-A9 trên QEMU `vexpress-a9`).
+Repository tổng hợp các bài thực hành và Assignment môn LOS201
 
 ## 📁 Cấu trúc Repository
 - **LAB01**: Cấu hình Kernel 5.15 LTS, U-Boot 2022.04, BusyBox và Khởi động hệ thống nhúng trên QEMU.
