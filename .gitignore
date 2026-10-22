@@ -1,0 +1,18 @@
+# Kernel module build artifacts
+*.o
+*.ko
+.*.cmd
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+modules.order
+.tmp_versions/
+
+# User-space compiled test helpers
+ioctl_helper
+
+# Editor or OS junk files
+.DS_Store
+*~
+.vscode/
