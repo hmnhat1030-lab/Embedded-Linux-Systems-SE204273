@@ -1,4 +1,7 @@
-# Embedded Linux Systems - SE204273 (Hoang Minh Nhat)
+# Embedded Linux Systems
+Members:
+SE204273 (Hoang Minh Nhat)
+SE203373 (Hoang Kien Quoc)
 
 Repository tổng hợp các bài thực hành và Assignment môn LOS201
 
